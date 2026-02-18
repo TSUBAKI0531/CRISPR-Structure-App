@@ -1,4 +1,5 @@
 streamlit
 biopython
 requests
-py3dmol
+pandas
+fpdf
