@@ -1,0 +1,16 @@
+# Python caches
+__pycache__/
+*.py[cod]
+
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Data & Outputs
+data/*.pdb
+structures/
+*.log
+
+# Streamlit
+.streamlit/
